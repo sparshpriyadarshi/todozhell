@@ -1,0 +1,25 @@
+{
+    "id": "magixtoken",
+    "created_at": "Thu 07 Mar 2024, 07:17AM",
+    "updated_at": "Thu 07 Mar 2024, 07:17AM",
+    "active_tasks": [
+        {
+            "id": "magixtaskid",
+            "text": "complete backlog"
+        },
+        {
+            "id": "majixtaskid",
+            "text": "apply to that job"
+        },
+        {
+            "id": "majixtaskid",
+            "text": "apply to that job again"
+        }
+    ],
+    "complete_tasks": [
+        {
+            "id": "mazickstaskid",
+            "text": "buy onions"
+        }
+    ]
+}
